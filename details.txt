@@ -1,0 +1,2 @@
+ API Key = 44bc9fb60507b5f3465efaca41173119
+ Hosted on https://netflix-clone-532db.web.app
